@@ -23,7 +23,7 @@ Résumé de vos efforts
 	* Sous-point 2.1
 	* Sous-point 2.2
 
-#### Section 2
+##### Section 2
 
 * Point 2
 	* Sous-point 2.1
