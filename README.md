@@ -36,6 +36,7 @@ Résumé de vos efforts
 Création, en équipe de 3 à 4, d'un site marchand bien référencé sur les moteurs de recherche ainsi que d'un système d'infolettre.
 
 ### Détails du travail de session
+* __MOT CLÉ À RÉFÉRENCER__ : _Dortalomu_
 * Utilisation d'un CMS de votre choix (Magento, WooCommerce, PrestaShop, etc.);
 * Thématique du site autour d'un mot clé qui sera révélé à tous au même moment;
 * Achat d'un nom de domaine qui ne doit pas contenir le mot clé ni dans son ensemble, ni en partie, ni avec une faute d'orthographe;
@@ -86,3 +87,4 @@ Au plus tard le __8 avril à 23 h 59__
 * Fichier HTML de l'infolettre ainsi que les accès au compte du système d'envoi (si applicable);
 * __Vos sites doivent être fonctionnels et accessibles jusqu'au 27 avril 23 h 59__;
 * __Vos sites ne doivent pas être modifiés entre la remise et le 27 avril 23 h 59__.
+
