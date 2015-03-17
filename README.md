@@ -1,12 +1,12 @@
 ### Nom des coéquipiers :
-Coéquipier 1  
-Coéquipier 2  
-Coéquipier 3  
-Coéquipier 3  
+Francis Gravel St-Pierre  
+Jean-Christophe Grondin  
+Simon Lévesque Gobeil  
+Vincent Philippon  
 
 ### Adresse de votre site Web (URL)
 
-http://www.exemple.com
+http://lesfousdusport.com
 
 ### Résumé des efforts SEO :
 
