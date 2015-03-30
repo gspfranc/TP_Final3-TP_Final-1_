@@ -20,10 +20,10 @@
         </div>
 
                                                 <div class="actions">
-                                                            <button type="button" title="Ajouter au panier" class="button btn-cart" onclick="setLocation('http://lesfousdusport.com/checkout/cart/add/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8_X19fc3RvcmU9ZnJhbmNhaXMmX19fZnJvbV9zdG9yZT1kZWZhdWx0/product/5/form_key/PAoIKsxZMl9ZQeUH/?___SID=U')"><span><span>Ajouter au panier</span></span></button>
+                                                            <button type="button" title="Ajouter au panier" class="button btn-cart" onclick="setLocation('http://lesfousdusport.com/checkout/cart/add/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8,/product/5/form_key/I6sYkjhaBi60AUhp/?___SID=U')"><span><span>Ajouter au panier</span></span></button>
                                                         <ul class="add-to-links">
-                                                                    <li><a href="http://lesfousdusport.com/wishlist/index/add/product/5/form_key/PAoIKsxZMl9ZQeUH/?___SID=U" class="link-wishlist">Ajouter à la liste d'envies</a></li>
-                                                                                                    <li><span class="separator">|</span> <a href="http://lesfousdusport.com/catalog/product_compare/add/product/5/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8_X19fc3RvcmU9ZnJhbmNhaXMmX19fZnJvbV9zdG9yZT1kZWZhdWx0/form_key/PAoIKsxZMl9ZQeUH/?___SID=U" class="link-compare">Ajouter au comparateur</a></li>
+                                                                    <li><a href="http://lesfousdusport.com/wishlist/index/add/product/5/form_key/I6sYkjhaBi60AUhp/?___SID=U" class="link-wishlist">Ajouter à la liste d'envies</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://lesfousdusport.com/catalog/product_compare/add/product/5/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8,/form_key/I6sYkjhaBi60AUhp/?___SID=U" class="link-compare">Ajouter au comparateur</a></li>
                                                             </ul>
                         </div>
                     </div>
@@ -44,10 +44,10 @@
         </div>
 
                                                 <div class="actions">
-                                                            <button type="button" title="Ajouter au panier" class="button btn-cart" onclick="setLocation('http://lesfousdusport.com/checkout/cart/add/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8_X19fc3RvcmU9ZnJhbmNhaXMmX19fZnJvbV9zdG9yZT1kZWZhdWx0/product/4/form_key/PAoIKsxZMl9ZQeUH/?___SID=U')"><span><span>Ajouter au panier</span></span></button>
+                                                            <button type="button" title="Ajouter au panier" class="button btn-cart" onclick="setLocation('http://lesfousdusport.com/checkout/cart/add/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8,/product/4/form_key/I6sYkjhaBi60AUhp/?___SID=U')"><span><span>Ajouter au panier</span></span></button>
                                                         <ul class="add-to-links">
-                                                                    <li><a href="http://lesfousdusport.com/wishlist/index/add/product/4/form_key/PAoIKsxZMl9ZQeUH/?___SID=U" class="link-wishlist">Ajouter à la liste d'envies</a></li>
-                                                                                                    <li><span class="separator">|</span> <a href="http://lesfousdusport.com/catalog/product_compare/add/product/4/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8_X19fc3RvcmU9ZnJhbmNhaXMmX19fZnJvbV9zdG9yZT1kZWZhdWx0/form_key/PAoIKsxZMl9ZQeUH/?___SID=U" class="link-compare">Ajouter au comparateur</a></li>
+                                                                    <li><a href="http://lesfousdusport.com/wishlist/index/add/product/4/form_key/I6sYkjhaBi60AUhp/?___SID=U" class="link-wishlist">Ajouter à la liste d'envies</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://lesfousdusport.com/catalog/product_compare/add/product/4/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8,/form_key/I6sYkjhaBi60AUhp/?___SID=U" class="link-compare">Ajouter au comparateur</a></li>
                                                             </ul>
                         </div>
                     </div>
@@ -68,10 +68,10 @@
         </div>
 
                                                 <div class="actions">
-                                                            <button type="button" title="Ajouter au panier" class="button btn-cart" onclick="setLocation('http://lesfousdusport.com/checkout/cart/add/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8_X19fc3RvcmU9ZnJhbmNhaXMmX19fZnJvbV9zdG9yZT1kZWZhdWx0/product/3/form_key/PAoIKsxZMl9ZQeUH/?___SID=U')"><span><span>Ajouter au panier</span></span></button>
+                                                            <button type="button" title="Ajouter au panier" class="button btn-cart" onclick="setLocation('http://lesfousdusport.com/checkout/cart/add/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8,/product/3/form_key/I6sYkjhaBi60AUhp/?___SID=U')"><span><span>Ajouter au panier</span></span></button>
                                                         <ul class="add-to-links">
-                                                                    <li><a href="http://lesfousdusport.com/wishlist/index/add/product/3/form_key/PAoIKsxZMl9ZQeUH/?___SID=U" class="link-wishlist">Ajouter à la liste d'envies</a></li>
-                                                                                                    <li><span class="separator">|</span> <a href="http://lesfousdusport.com/catalog/product_compare/add/product/3/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8_X19fc3RvcmU9ZnJhbmNhaXMmX19fZnJvbV9zdG9yZT1kZWZhdWx0/form_key/PAoIKsxZMl9ZQeUH/?___SID=U" class="link-compare">Ajouter au comparateur</a></li>
+                                                                    <li><a href="http://lesfousdusport.com/wishlist/index/add/product/3/form_key/I6sYkjhaBi60AUhp/?___SID=U" class="link-wishlist">Ajouter à la liste d'envies</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://lesfousdusport.com/catalog/product_compare/add/product/3/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8,/form_key/I6sYkjhaBi60AUhp/?___SID=U" class="link-compare">Ajouter au comparateur</a></li>
                                                             </ul>
                         </div>
                     </div>
@@ -92,10 +92,10 @@
         </div>
 
                                                 <div class="actions">
-                                                            <button type="button" title="Ajouter au panier" class="button btn-cart" onclick="setLocation('http://lesfousdusport.com/checkout/cart/add/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8_X19fc3RvcmU9ZnJhbmNhaXMmX19fZnJvbV9zdG9yZT1kZWZhdWx0/product/2/form_key/PAoIKsxZMl9ZQeUH/?___SID=U')"><span><span>Ajouter au panier</span></span></button>
+                                                            <button type="button" title="Ajouter au panier" class="button btn-cart" onclick="setLocation('http://lesfousdusport.com/checkout/cart/add/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8,/product/2/form_key/I6sYkjhaBi60AUhp/?___SID=U')"><span><span>Ajouter au panier</span></span></button>
                                                         <ul class="add-to-links">
-                                                                    <li><a href="http://lesfousdusport.com/wishlist/index/add/product/2/form_key/PAoIKsxZMl9ZQeUH/?___SID=U" class="link-wishlist">Ajouter à la liste d'envies</a></li>
-                                                                                                    <li><span class="separator">|</span> <a href="http://lesfousdusport.com/catalog/product_compare/add/product/2/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8_X19fc3RvcmU9ZnJhbmNhaXMmX19fZnJvbV9zdG9yZT1kZWZhdWx0/form_key/PAoIKsxZMl9ZQeUH/?___SID=U" class="link-compare">Ajouter au comparateur</a></li>
+                                                                    <li><a href="http://lesfousdusport.com/wishlist/index/add/product/2/form_key/I6sYkjhaBi60AUhp/?___SID=U" class="link-wishlist">Ajouter à la liste d'envies</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://lesfousdusport.com/catalog/product_compare/add/product/2/uenc/aHR0cDovL2xlc2ZvdXNkdXNwb3J0LmNvbS8,/form_key/I6sYkjhaBi60AUhp/?___SID=U" class="link-compare">Ajouter au comparateur</a></li>
                                                             </ul>
                         </div>
                     </div>
