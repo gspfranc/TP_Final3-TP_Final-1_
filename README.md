@@ -10,24 +10,32 @@ http://lesfousdusport.com
 
 ### Résumé des efforts SEO :
 
-___Structure à titre d'exemple___
-
 Résumé de vos efforts
 
-##### Section 1
+##### Réseaux sociaux
 
-* Point 1
-	* Sous-point 1.1
-	* Sous-point 1.2
-* Point 2
-	* Sous-point 2.1
-	* Sous-point 2.2
+* Compte Facebook
+	* Beaucoup de likes
+	* Open Graph sur nos produits
+	* Publication de contenu
+	* Liens entrants
+* Compte Twitter, Google+, Pinterest
+	* Petite communauté
+	* Publication de contenu
+	* Liens entrants
 
-##### Section 2
 
-* Point 2
-	* Sous-point 2.1
-	* Sous-point 2.2
+##### Contenu de qualité
+
+* Ligne de produit Dortalomu
+	* Mot-clé dans les meta, titres et descriptions
+	* Forum de discussion sur les produits Dortalomu
+
+
+##### Site bilingue
+
+* Anglais-Francais pour avoir deux fois plus de présence
+
 
 ---
 
