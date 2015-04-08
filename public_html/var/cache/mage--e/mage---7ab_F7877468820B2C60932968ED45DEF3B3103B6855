@@ -1,0 +1,108 @@
+ 
+ 
+ 
+ 
+ 
+ 
+
+<div class="footer-container">
+	<div class="footer">
+	
+				<div class="footer1-container">
+		    <div class="footer1">
+				<div class="newsletter">	
+					<div class="headline">Infolettre</div>	    	
+		    		<form action="http://lesfousdusport.com/newsletter/subscriber/new/?___SID=S" method="post" id="newsletter-validate-detail">
+<div class="form-newsletter">
+	<div class="input-box">
+	   <input type="text" name="email" value="Saisissez votre adresse courriel..." onblur="addText(this);" onfocus="clearText(this)" id="newsletter" title="Abonnez-vous à la newsletter" class="input-text required-entry validate-email" />
+	</div>
+	<div class="actions">
+	    <button type="submit" title="Inscription" class="button"><span><span>Inscription</span></span></button>
+	</div>
+</form>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    
+    function clearText(theField)
+    {
+  	  if (theField.defaultValue == theField.value)
+  		  theField.value = '';
+    }
+
+    function addText(theField)
+    {
+    	if (theField.value == '')
+    		theField.value = theField .defaultValue;
+    }
+    
+//]]>
+</script>
+</div>
+		    	</div>
+		        
+		        <div class="footer-social">
+		        	<div class="headline"></div>
+    				    			</div>
+		    </div>
+		    <div class="clearer"></div>
+		</div>
+		
+				<div class="footer2-container">
+			<div class="footer2">
+				<div class="box1">
+        			<div class="headline"></div>
+        			        		</div>
+        		<div class="box2">
+        			<div class="headline">À propos de nous</div>
+        			<ul>
+<li><a href="http://lesfousdusport.com/about/?___SID=U">&Agrave; propos de nous</a></li>
+<li><a href="http://lesfousdusport.com/contacts/?___SID=U">Contactez-nous</a></li>
+</ul>        		</div>
+        		<div class="box3">
+        			<div class="headline">Blogs</div>
+        			<ul>
+<li><a href="http://lesfousdusport.com/blogdusportif/lalimentation-du-sportif/?___SID=U">Alimentation</a></li>
+<li><a href="http://lesfousdusport.com/blogdusportif/comment-choisir-son-camping/?___SID=U">Camping</a></li>
+<li><a href="http://lesfousdusport.com/blogdusportif/voici-notre-selection-de-bouteille-deau-du-mois/?___SID=U">Sélection du mois</a></li>
+<li><a href="http://lesfousdusport.com/blogdusportif/ouverture-prochaine/?___SID=U">Ouverture</a></li>
+</ul>        		</div>
+        		<div class="box4">
+        			<div class="headline">Populaire</div>
+        			<ul>
+<li><a href="http://lesfousdusport.com/accessoires/gourde-dortalomu-pour-enfants-bleu.html/?___SID=U">Gourde Dortalomu pour enfants (bleue)</a></li>
+<li><a href="http://lesfousdusport.com/camping/ensemble-de-cuisine-de-camping.html/?___SID=U">Ensemble de cuisine de camping</a></li>
+<li><a href="http://lesfousdusport.com/accessoires/abri-d-equipe-sklz-de-dortalomu.html/?___SID=U">Abri d&rsquo;&eacute;quipe SKLZ de Dortalomu</a></li>
+<li><a href="http://lesfousdusport.com/camping/rechaud-de-camping-a-deux-bruleurs.html/?___SID=U">R&eacute;chaud &agrave; deux br&ucirc;leurs</a></li>
+</ul>        		</div>
+        		<div class="box5">
+        			<div class="headline">Mon Compte</div>
+        			<ul>
+<li><a href="http://lesfousdusport.com/customer/account/?___SID=S">Mon compte</a></li>
+<li><a href="http://lesfousdusport.com/wishlist/?___SID=S">Ma liste d'envies</a></li>
+<li><a href="http://lesfousdusport.com/checkout/cart/?___SID=U">Voir le panier</a></li>
+<li><a href="http://lesfousdusport.com/checkout/?___SID=U">Commander</a></li>
+</ul>        		</div>
+				<div class="clearer"></div>
+		    </div>
+		</div>
+		
+				<div class="footer3-container">
+			<div class="footer3">
+				<div class="footer-payments">
+					<ul class="payment-icons">
+<li><img alt="Visa" src="http://lesfousdusport.com/media/wysiwyg/pagayo/pt001/icon-payment-visa.png" /></li>
+<li><img alt="MasterCard" src="http://lesfousdusport.com/media/wysiwyg/pagayo/pt001/icon-payment-mastercard.png" /></li>
+<li><img alt="Amercian Express" src="http://lesfousdusport.com/media/wysiwyg/pagayo/pt001/icon-payment-amex.png" /></li>
+<li><img alt="Moneybookers" src="http://lesfousdusport.com/media/wysiwyg/pagayo/pt001/icon-payment-moneybookers.png" /></li>
+</ul>				</div>
+				    			<div class="copyright">
+					LesFousDuSport est une boutique en ligne fictive créée dans le cadre d'un cours de commerce électronique. Prière de ne pas effectuer de transactions. Merci. | <a href="http://www.pagayo.com/magento-themes/pt001.html" title="Free Magento Theme Electronics Online by www.pagayo.com" target="_blank">Pagayo Theme Developer</a>
+				</div>
+				<div class="clearer"></div>
+		    </div>
+		</div>
+		
+	</div>
+</div>
